@@ -1,4 +1,6 @@
 
+
+                       //Assignment – Create a encapsulation class for employee details.
 class Employee
 {
 	private int EmpID;
@@ -46,3 +48,11 @@ public class Session_4_Assignment_3 {
                 
 	}
 }
+
+/*Expected Output :  
+Employee EmpID=2
+Employee EmpName=Acadgild
+Employee EmpID=1
+Employee EmpName=Rahul Bhatia
+             
+ */
